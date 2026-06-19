@@ -24,7 +24,7 @@ unemployment-education-analysis/
 
 | File | Source | Coverage | Key Columns |
 |------|--------|----------|-------------|
-| `education_usa.csv` | U.S. Bureau of Labor Statisticshttps://data.humdata.org/dataset/7a1adedc-763c-4b53-b664-c8126a3d68cc/resource/c0a4bdcf-954e-48fc-97c1-eab1253084a8/download/education_usa.csv | 2010–2020 | Race, sex, education level, month |
+| `education_usa.csv` | U.S. Bureau of Labor Statistics https://data.humdata.org/dataset/7a1adedc-763c-4b53-b664-c8126a3d68cc/resource/c0a4bdcf-954e-48fc-97c1-eab1253084a8/download/education_usa.csv | 2010–2020 | Race, sex, education level, month |
 | `unemployment_data_us.csv` | https://www.kaggle.com/datasets/guillemservera/us-unemployment-rates | 2010-2020 |BLS unemployment by race, sex & education |
 | `df_sex_unemployment_rates.csv` | BLS unemployment by race, sex & education BLS (CPS) | 1948–present | Men/women rates by age group |
 

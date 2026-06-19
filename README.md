@@ -88,7 +88,5 @@ pip install pandas matplotlib numpy scipy
 ## 👩🏿‍💻 Author
 
 Arielle 
-GitHub: @ariellecanate
+GitHub: @acanate26
 
-Want me to generate the requirements.txt or a Jupyter notebook version of the analysis too?
-Sonnet 4.6 Low

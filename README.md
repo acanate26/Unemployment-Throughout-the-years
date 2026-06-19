@@ -85,7 +85,7 @@ pip install pandas matplotlib numpy scipy
   be directly joined to the unemployment data without interpolation.
 
 
-## 🙋 Author
+## 👩🏿‍💻 Author
 
 Arielle 
 GitHub: @ariellecanate
